@@ -1,0 +1,9 @@
+.click button{
+    background-color: #0bb7e7;
+    color: white;
+    width: 10em;
+    padding: 0.6em;
+    border: 0.2em solid blueviolet;
+    border-radius: 10em;
+    cursor: pointer;
+}

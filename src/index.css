@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.example{
+  color: white;
+}
+
+.example button{
+  background-color: rgb(84, 84, 163);
+  color: rgb(253, 251, 251);
+  width: 10rem;
+  height: 3rem;
+  font-size: 1rem;
+  border-radius: 5em;
+}
